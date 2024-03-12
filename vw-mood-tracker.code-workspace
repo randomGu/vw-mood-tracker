@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "name": "vw-mood-tracker",
+            "path": "."
+        },
+        {
+            "name": "hot-reload",
+            "path": "../hot-reload"
+        },
+        {
+            "name": "obsidian-mood-tracker",
+            "path": "../obsidian-mood-tracker"
+        }
+    ]
+}
